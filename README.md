@@ -1,2 +1,3 @@
-# examples
-code examples
+# Examples
+
+Spring Boot, Jpa Examples
